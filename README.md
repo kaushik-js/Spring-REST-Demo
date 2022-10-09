@@ -1,2 +1,2 @@
 # Spring REST API
-Simple RESTFul Api
+Simple RESTFul API using SpringBoot
